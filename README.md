@@ -9,7 +9,6 @@ It provides a simple and real-time messaging interface that connects to the back
 
 Follow the steps below to set up and run the project locally 👇
 
-### 1️ Clone the repository
 ```bash
 git clone 
 
